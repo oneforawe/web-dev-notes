@@ -2,7 +2,7 @@
 
 Notes on web-development options and decisions.
 
-As of 2024-02-07.
+As of 2024-02-08.
 
 Two main interests:
 
