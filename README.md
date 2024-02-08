@@ -59,6 +59,8 @@ native-Windows version.  Also, Bun's advantages might be superficial /
 
 Maybe stay near npm and use pnpm instead.
 
+* [In Deno](https://docs.deno.com/runtime/tutorials/manage_dependencies)
+  there is no concept of a package manager; use `deps.ts` and `dev_deps.ts`.
 * [npm](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager) -
   status quo (with [registry](https://docs.npmjs.com/about-npm))
 * [pnpm](https://pnpm.io/) - [performant](https://pnpm.io/faq#what-does-pnpm-stand-for) npm
