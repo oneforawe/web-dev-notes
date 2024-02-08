@@ -2,9 +2,7 @@
 
 Notes on web-development options and decisions.
 
-As of 2024-02-08.
-
-Two main interests:
+Main interests (as of 2024-02-08):
 
 * React (or Preact)
   * node (w/ nvm) + pnpm + (next or vite) + (p)react + etc
@@ -90,13 +88,13 @@ Python: Django; Ruby: (Ruby on) Rails; Elixir: Phoenix;
 
 ### Build/Deploy Toolkits and Frameworks
 
-Maybe use Next, or Vite, or Remix.
+Maybe use Next, Vite, or Remix.
 
 * [create-react-app](https://legacy.reactjs.org/docs/create-a-new-react-app.html) -
   legacy / old status quo (aka CRA)
 * [new react create](https://react.dev/learn/start-a-new-react-project) - ~4
   recommendations (Next, Remix, Gatsby, Expo)
-* [Vite](https://vitejs.dev/) - ~closest analog to CRA (but only basic bundling/code-splitting?)
+* [Vite](https://vitejs.dev/) - ~closest analog to CRA (but only basic bundling/code-splitting?)  
   See [Keynote: The State of Vite | ViteConf 2023](https://www.youtube.com/watch?v=hrdwQHoAp0M&t=14m16s)
 * others?
 * Meta-Frameworks(?)
@@ -104,7 +102,6 @@ Maybe use Next, or Vite, or Remix.
   * [Remix](https://remix.run/)
   * [Gatsby](https://www.gatsbyjs.com/)
   * [Expo](https://expo.dev/)
-
 * [SvelteKit](https://kit.svelte.dev/) (Svelte+Vite)
 
 Others: [Astro](https://astro.build/) (for content-driven sites), Fresh, Lume?
@@ -124,7 +121,7 @@ Use shadcn, radix-ui!
 For components, styling, utilities, etc.
 
 * [shadcn/ui](https://ui.shadcn.com/) - build-your-own library (see
-[here](https://www.youtube.com/watch?v=2Q0mWH6g8Fo))
+  [here](https://www.youtube.com/watch?v=2Q0mWH6g8Fo))
 * [v0.dev](https://v0.dev/) - ai ui generation
 * [radix-ui](https://www.radix-ui.com/) -
   primitives for accessible React components
