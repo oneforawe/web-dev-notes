@@ -94,7 +94,7 @@ Maybe use Next, or Vite, or Remix.
 
 Others: [Astro](https://astro.build/) (for content-driven sites), Fresh, Lume?
 
-## Style
+### Style
 
 I advocate just using SCSS and not tailwind.
 
@@ -102,7 +102,7 @@ I advocate just using SCSS and not tailwind.
   (original indented syntax, .sass; newer SCSS / Sassy CSS syntax, .scss)
 * [tailwind](https://tailwindcss.com/)
 
-## Frontend Toolkits/Libraries
+### Frontend Toolkits/Libraries
 
 Use shadcn, radix-ui!
 
@@ -119,7 +119,7 @@ For components, styling, utilities, etc.
 
 Not too bad to use mui or maybe bootstrap where helpful, but shadcn/shadcn looks best!
 
-## DevOps / CI/CD
+### DevOps / CI/CD
 
 Investigate more.
 
