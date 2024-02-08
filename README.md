@@ -102,7 +102,9 @@ Maybe use Next, Vite/WMR/Fresh, or Remix.
 * [vite](https://vitejs.dev/) - ~closest analog to CRA (but only basic bundling/code-splitting?)  
   See [Keynote: The State of Vite | ViteConf 2023](https://www.youtube.com/watch?v=hrdwQHoAp0M&t=14m16s)
 * [wmr](https://github.com/preactjs/wmr) - for preact
-* [fresh](https://fresh.deno.dev/docs/introduction) - (deno + fresh + preact)
+* [fresh](https://fresh.deno.dev/docs/introduction) - (deno + fresh + preact)  
+  See youtube [overview](https://www.youtube.com/watch?v=sz5I90bFO1c) and
+  [detail](https://www.youtube.com/watch?v=1pcBlSGW_Sk)
 * [SvelteKit](https://kit.svelte.dev/) (Svelte+Vite)
 
 Others: [Astro](https://astro.build/) (for content-driven sites), Fresh, Lume?
