@@ -85,7 +85,8 @@ frameworks:
 * [Svelte](https://svelte.dev/) (framework/compiler)
 * [Lit](https://lit.dev/)
 
-Others: Angular, Vue, Qwik, Alpine
+Others: [Angular](https://angular.io/), [Vue](https://vuejs.org/),
+[Qwik](https://qwik.dev/), [Alpine](https://alpinejs.dev/)
 
 Python: Django; Ruby: (Ruby on) Rails; Elixir: Phoenix;
 
