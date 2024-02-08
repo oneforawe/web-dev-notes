@@ -106,7 +106,8 @@ Maybe use Next, Vite/WMR/Fresh, or Remix.
   [detail](https://www.youtube.com/watch?v=1pcBlSGW_Sk)
 * [SvelteKit](https://kit.svelte.dev/) (Svelte+Vite)
 
-Others: [Astro](https://astro.build/) (for content-driven sites), Fresh, Lume?
+Others: [Astro](https://astro.build/) (for content-driven sites),
+[Aleph](https://alephjs.org/docs/) (beta, not ready for production), Lume?
 
 ### Style
 
