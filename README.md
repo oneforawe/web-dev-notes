@@ -7,9 +7,11 @@ As of 2024-02-07.
 Two main interests:
 
 * React (or Preact)
-  * node (w/ nvm) + pnpm + (next or vite) + react + etc
+  * node (w/ nvm) + pnpm + (next or vite) + (p)react + etc
+  * deno + (?) + vite(?) + (p)react + etc
 * Solid
   * node (w/ nvm) + pnpm + vite(?) + solid + etc
+  * deno + (?) + vite(?) + solid + etc
 
 ## Dev Concepts
 
@@ -34,6 +36,9 @@ likely be rejected at work for no native-Windows version.
 
 * [node](https://nodejs.org/en) - pop status quo
 * [deno](https://deno.com/) - secure, faster
+  * Usage:
+    Used by [slack](https://api.slack.com/automation/security) and
+    [others](https://deno.com/blog?tag=partnerships), to some degree at least.
   * Security:  
     "Node.js isn’t far behind on this front. Node.js 20 introduced a permissions
     model allowing similar security aspects as those of Deno."
@@ -42,6 +47,10 @@ likely be rejected at work for no native-Windows version.
     "However, not all of Deno's features are ready for production yet."  
     "Deno's standard modules (<https://deno.land/std>) are not yet stable."  
     -From [docs](https://docs.deno.com/runtime/manual/runtime/stability)
+  * However:
+    As an experienced friend of mine said: "[Having unstable features] is pretty
+    much standard for everything. There are unstable features in node. How
+    important they are for what you are working on will vary."
 * [bun](https://bun.sh/) - fast (runtime & toolkit) -- if Windows, only WSL
 
 ### Package Managers
