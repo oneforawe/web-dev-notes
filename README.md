@@ -40,7 +40,7 @@ likely be rejected at work for no native-Windows version.
     -[Snyk](https://snyk.io/blog/javascript-runtime-compare-node-deno-bun/)
   * Stability:  
     "However, not all of Deno's features are ready for production yet."  
-    "Deno's standard modules (https://deno.land/std) are not yet stable."  
+    "Deno's standard modules (<https://deno.land/std>) are not yet stable."  
     -From [docs](https://docs.deno.com/runtime/manual/runtime/stability)
 * [bun](https://bun.sh/) - fast (runtime & toolkit) -- if Windows, only WSL
 
