@@ -6,7 +6,7 @@ Main interests (as of 2024-02-08):
 
 * React (or Preact)
   * node (w/ nvm) + pnpm + (next or vite) + (p)react + etc
-  * deno + (?) + vite(?) + (p)react + etc
+  * deno + (?) + vite(/wmr/fresh) + (p)react + etc
 * Solid
   * node (w/ nvm) + pnpm + vite(?) + solid + etc
   * deno + (?) + vite(?) + solid + etc
@@ -88,20 +88,21 @@ Python: Django; Ruby: (Ruby on) Rails; Elixir: Phoenix;
 
 ### Build/Deploy Toolkits and Frameworks
 
-Maybe use Next, Vite, or Remix.
+Maybe use Next, Vite/WMR/Fresh, or Remix.
 
 * [create-react-app](https://legacy.reactjs.org/docs/create-a-new-react-app.html) -
   legacy / old status quo (aka CRA)
 * [new react create](https://react.dev/learn/start-a-new-react-project) - ~4
   recommendations (Next, Remix, Gatsby, Expo)
-* [Vite](https://vitejs.dev/) - ~closest analog to CRA (but only basic bundling/code-splitting?)  
-  See [Keynote: The State of Vite | ViteConf 2023](https://www.youtube.com/watch?v=hrdwQHoAp0M&t=14m16s)
-* others?
 * Meta-Frameworks(?)
   * [Next](https://nextjs.org/)
   * [Remix](https://remix.run/)
   * [Gatsby](https://www.gatsbyjs.com/)
   * [Expo](https://expo.dev/)
+* [vite](https://vitejs.dev/) - ~closest analog to CRA (but only basic bundling/code-splitting?)  
+  See [Keynote: The State of Vite | ViteConf 2023](https://www.youtube.com/watch?v=hrdwQHoAp0M&t=14m16s)
+* [wmr](https://github.com/preactjs/wmr) - for preact
+* [fresh](https://fresh.deno.dev/docs/introduction) - (deno + fresh + preact)
 * [SvelteKit](https://kit.svelte.dev/) (Svelte+Vite)
 
 Others: [Astro](https://astro.build/) (for content-driven sites), Fresh, Lume?
