@@ -17,15 +17,17 @@ Two main interests:
 
 * content, style, interactivity/reactivity (static vs dynamic)
   * html, css, javascript, typescript, etc
+* composition:
+  components
+* state control:
+  store/redux, nano-store(?)
 * reactivity:
-  components,
 * performance / compilation /
   [rendering](https://www.patterns.dev/vanilla/rendering-patterns):
   static site generation (SSG), static rendering,
   client-side rendering (CSR), server-side rendering (SSR),
   [islands](https://www.patterns.dev/vanilla/islands-architecture),
   bundle-splitting,
-* state control: store/redux, nano-store(?)
 
 ## Pieces of Tech
 
