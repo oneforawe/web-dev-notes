@@ -93,8 +93,7 @@ Maybe use Next, Vite/WMR/Fresh, or Remix.
 * [create-react-app](https://legacy.reactjs.org/docs/create-a-new-react-app.html) -
   legacy / old status quo (aka CRA)
 * [new react create](https://react.dev/learn/start-a-new-react-project) - ~4
-  recommendations (Next, Remix, Gatsby, Expo)
-* Meta-Frameworks(?)
+  Meta-Framework recommendations
   * [Next](https://nextjs.org/)
   * [Remix](https://remix.run/)
   * [Gatsby](https://www.gatsbyjs.com/)
