@@ -36,7 +36,7 @@ likely be rejected at work for no native-Windows version.
 
 * [node](https://nodejs.org/en) - pop status quo
 * [deno](https://deno.com/) - secure, faster
-  * Usage:
+  * Usage:  
     Used by [slack](https://api.slack.com/automation/security) and
     [others](https://deno.com/blog?tag=partnerships), to some degree at least.
   * Security:  
@@ -47,7 +47,7 @@ likely be rejected at work for no native-Windows version.
     "However, not all of Deno's features are ready for production yet."  
     "Deno's standard modules (<https://deno.land/std>) are not yet stable."  
     -From [docs](https://docs.deno.com/runtime/manual/runtime/stability)
-  * However:
+  * However:  
     As an experienced friend of mine said: "[Having unstable features] is pretty
     much standard for everything. There are unstable features in node. How
     important they are for what you are working on will vary."
