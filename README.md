@@ -33,8 +33,7 @@ Main interests (as of 2024-02-08):
 
 Maybe stick with Node; Deno looks like it may not be stable enough yet, but it
 could be ready, so investigate more; Bun will likely be rejected at work for no
-native-Windows version.  Also, Bun's advantages might be superficial /
-[hype](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j).
+native-Windows version.
 
 * [node](https://nodejs.org/en) - pop status quo
 * [deno](https://deno.com/) - secure, faster
@@ -53,7 +52,9 @@ native-Windows version.  Also, Bun's advantages might be superficial /
     As an experienced friend of mine said: "[Having unstable features] is pretty
     much standard for everything. There are unstable features in node. How
     important they are for what you are working on will vary."
-* [bun](https://bun.sh/) - fast (runtime & toolkit) -- if Windows, only WSL
+* [bun](https://bun.sh/) - fast (runtime & toolkit) -- if Windows, only WSL --
+  are the advantages superficial /
+  [hype](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j)?
 
 ### Package Managers
 
