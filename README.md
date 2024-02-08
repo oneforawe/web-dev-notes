@@ -75,8 +75,10 @@ frameworks:
 
 * [htmx](https://www.htmx.org/) - interactivity via new html attributes
 * [React](https://react.dev/) - pop status quo
-* [Preact](https://preactjs.com/) - lighter-weight React?
+* [Preact](https://preactjs.com/) - ~lighter-weight React
+  (provides the thinnest possible Virtual DOM abstraction on top of the DOM)
 * [Solid](https://www.solidjs.com/) - similar to React but new paradigms
+  (doesn't have a Virtual DOM)
 * [Svelte](https://svelte.dev/) (framework/compiler)
 * [Lit](https://lit.dev/)
 
