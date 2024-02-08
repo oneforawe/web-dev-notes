@@ -31,8 +31,10 @@ Two main interests:
 
 ### Runtimes+
 
-Maybe stick with Node; Deno looks like it may not be stable enough yet; Bun will
-likely be rejected at work for no native-Windows version.
+Maybe stick with Node; Deno looks like it may not be stable enough yet, but it
+could be ready, so investigate more; Bun will likely be rejected at work for no
+native-Windows version.  Also, Bun's advantages might be superficial /
+[hype](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j).
 
 * [node](https://nodejs.org/en) - pop status quo
 * [deno](https://deno.com/) - secure, faster
