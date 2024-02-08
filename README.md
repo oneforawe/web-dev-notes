@@ -5,8 +5,8 @@ Notes on web-development options and decisions.
 Main interests (as of 2024-02-08):
 
 * React (or Preact)
-  * node (w/ nvm) + pnpm + (next or vite) + (p)react + etc
-  * deno + (?) + vite(/wmr/fresh) + (p)react + etc
+  * node (w/ nvm) + pnpm + (next or vite/wmr) + (p)react + etc
+  * deno + (?) + vite(/fresh) + (p)react + etc
 * Solid
   * node (w/ nvm) + pnpm + vite(?) + solid + etc
   * deno + (?) + vite(?) + solid + etc
