@@ -7,15 +7,15 @@ Notes on web-development options and decisions.
 Current decision (as of 2024-02-09):
 
 * Align with what has already been voted upon.  
-  node (w/ nvm) + pnmp + next + react + etc
+  pnpm + node + next + react + etc
 
 Main interests (as of 2024-02-08):
 
 * React (or Preact)
-  * node (w/ nvm) + pnpm + (next or vite/wmr) + (p)react + etc
+  * pnpm + node + (next or vite/wmr) + (p)react + etc
   * deno + vite(/fresh) + (p)react + etc
 * Solid
-  * node (w/ nvm) + pnpm + vite(?) + solid + etc
+  * pnpm + node + vite(?) + solid + etc
   * deno + vite(?) + solid + etc
 
 ## Dev Concepts
@@ -154,6 +154,9 @@ Investigate more.
   helps you maintain and scale monorepos, both locally and on CI.
 
 ## Combinations of Tech
+
+* Node
+  * node (w/ nvm) + pnmp ?  Seems that pnpm can replace nvm; let's try that.
 
 (React+Next) ~ (Vue+Nuxt) ~ (Svelte+SvelteKit)
 
