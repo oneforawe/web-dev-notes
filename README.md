@@ -2,6 +2,13 @@
 
 Notes on web-development options and decisions.
 
+## Decision & Interests
+
+Current decision (as of 2024-02-09):
+
+* Align with what has already been voted upon.  
+  node (w/ nvm) + pnmp + next + react + etc
+
 Main interests (as of 2024-02-08):
 
 * React (or Preact)
